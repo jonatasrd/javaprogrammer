@@ -1,4 +1,4 @@
-package inicializarvariavel;
+package javabasics.scopeofvariables;
 
 class Teste{
 
@@ -7,6 +7,6 @@ class Teste{
     }
     
     public void m2(){
-        System.out.print(s);
+        System.out.print(s); não compila com essa linha
     }
 }

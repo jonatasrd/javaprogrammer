@@ -1,5 +1,4 @@
-# javaprogrammer
-Estudos para a certificação Java
+# Topics para a certificação Java
 
 1 - Java Basics
   Define the scope of variables

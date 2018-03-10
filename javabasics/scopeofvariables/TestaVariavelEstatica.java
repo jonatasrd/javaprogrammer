@@ -1,4 +1,4 @@
-package inicializarvariavel;
+package javabasics.scopeofvariables;
 
 class TestaVariavelEstatica{
     
